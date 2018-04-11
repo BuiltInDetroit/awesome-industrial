@@ -5,7 +5,7 @@ We welcome all contributions!
 ### Guidelines
 
 * Add only one Industry 4.0 resource link per Pull Request.
-* Add the link: `* [project-name](http://example.com/) - A short description that ends with a period.`
+* Add the link: `* [resource-name](http://example.com/) - A short description of the resource that ends with a period.`
     * Keep the description concise.
 * Add a section if necessary.
     * Add a brief description for the new section.
