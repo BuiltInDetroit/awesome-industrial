@@ -13,7 +13,7 @@ A curated list of awesome Industry 4.0 research, software projects and learning 
 
 Discussion forums and platforms dedicated to Industry 4.0 topics.
 
-* [SME Virtual Network Discuss](https://discuss.smevirtual.com/)
+* [SME Virtual Network Discuss](https://discuss.smevirtual.com/) - The official discussion forum for SME Virtual Network workshops, walkthroughs and other Industry 4.0 conversations.
 
 ## Other Awesome Lists
 
