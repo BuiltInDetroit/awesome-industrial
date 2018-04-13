@@ -28,6 +28,7 @@ dedicated to Industry 4.0 conversations, topics and equipment.
 Other Awesome lists for programming languages and technologies that are commonly
 used in the context of Industry 4.0.
 
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
 * [Awesome .NET](https://github.com/quozd/awesome-dotnet)
