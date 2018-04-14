@@ -5,6 +5,7 @@ A curated list of awesome Industry 4.0 research, software projects and learning 
 - [Awesome Industry 4.0](#awesome-industry-40)
     - [Discussion Forums](#discussion-forums)
     - [Trade Shows and Recurring Events](#trade-shows-and-recurring-events)
+    - [Organizations](#organizations)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -22,6 +23,13 @@ Trade shows and recurring physical events of which a substantial portion is
 dedicated to Industry 4.0 conversations, topics and equipment.
 
 * [International Manufacturing Technology Show (IMTS)](https://www.imts.com/) - Americas' Largest Manufacturing Show which has included several talks, exhibits and features about Industry 4.0 and Digital Manufacturing in recent years.
+
+## Organizations
+
+Non-profit or public-private organizations which support research, development
+and implementation of Industry 4.0 technologies and standards.
+
+* [Digital Manufacturing and Design Innovation Institute (DMDII)](http://www.uilabs.org/innovation-platforms/manufacturing/) - Public-private manufacturing hub based in Chicago.
 
 ## Other Awesome Lists
 
