@@ -18,6 +18,7 @@ Open-source sofware and hardware for developing, provisioning and deploying
 Industrial Internet of Things (IIoT) devices, cloud services and networks.
 
 * [Amazon Web Services FreeRTOS](https://www.freertos.org/)  - Very popular cross-platform, real-time operating system for resource-constrained microcontrollers and embedded systems. [MIT Licensed](https://choosealicense.com/licenses/mit/).
+* [Mongoose OS](https://mongoose-os.com/) - IoT firmware development framework for full-stack, cloud-connected device development. Features a JavaScript API for quick prototyping and traditional C/C++ APIs for production use. [Apache 2.0 Licensed](https://choosealicense.com/licenses/apache-2.0/).
 
 ## Discussion Forums
 
