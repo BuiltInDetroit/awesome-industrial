@@ -1,8 +1,9 @@
 ## Awesome Industry 4.0
 
-A curated list of awesome Industry 4.0 research, software projects and learning resources.
+A curated list of awesome Industry 4.0 research, open-source software projects and learning resources.
 
 - [Awesome Industry 4.0](#awesome-industry-40)
+    - [IIoT Software and Hardware](#iiot-software-and-hardware)
     - [Discussion Forums](#discussion-forums)
     - [Trade Shows and Recurring Events](#trade-shows-and-recurring-events)
     - [Organizations](#organizations)
@@ -10,6 +11,13 @@ A curated list of awesome Industry 4.0 research, software projects and learning 
 - [Contributing](#contributing)
 
 - - -
+
+## IIoT Software and Hardware
+
+Open-source sofware and hardware for developing, provisioning and deploying
+Industrial Internet of Things (IIoT) devices, cloud services and networks.
+
+* [Amazon Web Services FreeRTOS](https://www.freertos.org/)  - Very popular cross-platform, real-time operating system for resource-constrained microcontrollers and embedded systems. [MIT Licensed](https://choosealicense.com/licenses/mit/).
 
 ## Discussion Forums
 
