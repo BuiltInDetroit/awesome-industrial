@@ -49,6 +49,7 @@ used in the context of Industry 4.0.
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
 * [Awesome .NET](https://github.com/quozd/awesome-dotnet)
+* [Awesome IoT](https://github.com/phodal/awesome-iot)
 
 ## Contributing
 
