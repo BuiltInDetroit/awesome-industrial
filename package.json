@@ -1,0 +1,33 @@
+{
+    "name": "@mfgopen/awesome-industry4.0",
+    "version": "0.0.0",
+    "description": "Curated list of Industry 4.0 research, popular events, open-source software projects and learning resources.",
+    "private": true,
+    "scripts": {
+      "build": "doctoc --title **Contents** --maxlevel 3 README.md",
+      "postinstall": "doctoc --title **Contents** --maxlevel 3 README.md"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/MfgOpen/awesome-industry4.0"
+    },
+    "author": "ManufacturingOpen Foundation <open@alliedstrand.com> (https://mfgopen.com)",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/MfgOpen/awesome-industry4.0/issues"
+    },
+    "homepage": "https://mfgopen.com",
+    "devDependencies": {
+      "doctoc": "^1.4.0",
+      "husky": "^3.0.4",
+      "prettier": "^1.19.1"
+    },
+    "husky": {
+      "hooks": {
+        "pre-commit": "doctoc --title **Contents** --maxlevel 3 README.md"
+      }
+    },
+    "engines": {
+      "node": ">=12"
+    }
+  }
