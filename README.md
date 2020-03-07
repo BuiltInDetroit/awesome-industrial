@@ -13,23 +13,24 @@ A curated list of Industry 4.0 research, popular events, open-source software pr
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Contents**
 
-- [Programming Learning Resources](#programming-learning-resources)
-  - [Python Programming](#python-programming)
-  - [TypeScript Programming](#typescript-programming)
-- [Discussion Forums and Communities](#discussion-forums-and-communities)
+- [Learning Resources](#learning-resources)
+  - [Computer Programming](#computer-programming)
+- [Helpful Discussion Forums and Communities](#helpful-discussion-forums-and-communities)
 - [Trade Shows and Events](#trade-shows-and-events)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Code of Conduct](#code-of-conduct)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Programming Learning Resources
+## Learning Resources
+
+### Computer Programming
 
 Computer programming is the capstone of Industry 4.0, Smart Manufacturing and modern Systems Engineering.
 
 If you have an interest in working with and implementing advanced manufacturing and modern, connected systems, then you will need excellent computer programming skills.
 
-### Python Programming
+#### Python Programming
 
 **Overview**
 
@@ -53,9 +54,9 @@ at the moment.
 
 **Resources**
 
-* [Python Programming Foundations](https://www.youtube.com/playlist?list=PLYUrQ5a-G2hBKwkhYC8lw5w_VeFM4-MdS) - by [Adam J. Cook](https://twitter.com/AdamJosephCook)
+* [Python Programming Foundations](https://www.youtube.com/playlist?list=PLYUrQ5a-G2hBKwkhYC8lw5w_VeFM4-MdS) (**for Python beginners**) - by [Adam J. Cook](https://twitter.com/AdamJosephCook)
 
-### TypeScript Programming
+#### TypeScript Programming
 
 **Overview**
 
@@ -80,14 +81,14 @@ may very well, one day, become as popular as JavaScript itself.
 
 **Resources**
 
-* [TypeScript Programming Foundations](https://www.youtube.com/playlist?list=PLYUrQ5a-G2hAm08wIsXYCywGB2Evpuzby) - by [Adam J. Cook](https://twitter.com/AdamJosephCook)
+* [TypeScript Programming Foundations](https://www.youtube.com/playlist?list=PLYUrQ5a-G2hAm08wIsXYCywGB2Evpuzby) (**for TypeScript/JavaScript beginners**) - by [Adam J. Cook](https://twitter.com/AdamJosephCook)
 * [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) - by [basarat](https://twitter.com/basarat)
 * [Intro to D3](https://wattenberger.com/blog/d3#intro) - by [Amelia Wattenberger](https://twitter.com/wattenberger)
 * [Introduction to D3](https://observablehq.com/@mitvis/introduction-to-d3) - by [Arvind Satyanarayan](https://twitter.com/arvindsatya1)
 
-## Discussion Forums and Communities
+## Helpful Discussion Forums and Communities
 
-Discussion forums and platforms dedicated to Industry 4.0 topics.
+Discussion forums and platforms dedicated to helping people learn about and discuss Industry 4.0 topics.
 
 * [ManufacturingOpen Discord Server](https://discord.gg/ssvcVNJ) - The official Discord chat server for ManufacturingOpen workshops, walkthroughs, Industry 4.0 conversations and help.
 
