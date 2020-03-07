@@ -76,7 +76,7 @@ may very well, one day, become as popular as JavaScript itself.
 * Edge computing for Industrial Internet of Things (IIoT) applications (typically via [WebAssembly](https://webassembly.org/))
 * Industrial graphics via [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) and [WebXR](https://blog.mozvr.com/tag/webxr/)
 * Data visualization (for example, using [D3.js](https://d3js.org/))
-* Soft real-time, server-side web applications (via [Node.js](https://nodejs.org/en/)
+* Soft real-time, server-side web applications (via [Node.js](https://nodejs.org/en/))
 
 **Resources**
 
