@@ -15,6 +15,8 @@ A curated list of Industry 4.0 research, popular events, open-source software pr
 
 - [Learning Resources](#learning-resources)
   - [Computer Programming](#computer-programming)
+    - [Python](#python)
+    - [TypeScript](#typescript)
 - [Helpful Discussion Forums and Communities](#helpful-discussion-forums-and-communities)
 - [Trade Shows and Events](#trade-shows-and-events)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -30,7 +32,7 @@ Computer programming is the capstone of Industry 4.0, Smart Manufacturing and mo
 
 If you have an interest in working with and implementing advanced manufacturing and modern, connected systems, then you will need excellent computer programming skills.
 
-#### Python Programming
+#### Python
 
 **Overview**
 
@@ -56,7 +58,7 @@ at the moment.
 
 * [Python Programming Foundations](https://www.youtube.com/playlist?list=PLYUrQ5a-G2hBKwkhYC8lw5w_VeFM4-MdS) (**for Python beginners**) - by [Adam J. Cook](https://twitter.com/AdamJosephCook)
 
-#### TypeScript Programming
+#### TypeScript
 
 **Overview**
 
@@ -90,7 +92,7 @@ may very well, one day, become as popular as JavaScript itself.
 
 Discussion forums and platforms dedicated to helping people learn about and discuss Industry 4.0 topics.
 
-* [ManufacturingOpen Discord Server](https://discord.gg/ssvcVNJ) - The official Discord chat server for ManufacturingOpen workshops, walkthroughs, Industry 4.0 conversations and help.
+* [ManufacturingOpen Discord Server](https://discord.gg/ssvcVNJ) - The official Discord chat server for ManufacturingOpen workshops, walkthroughs, Industry 4.0 conversations, feedback and general help.
 
 ## Trade Shows and Events
 

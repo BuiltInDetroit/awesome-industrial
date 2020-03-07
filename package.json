@@ -4,8 +4,8 @@
     "description": "Curated list of Industry 4.0 research, popular events, open-source software projects and learning resources.",
     "private": true,
     "scripts": {
-      "build": "doctoc --title **Contents** --maxlevel 3 README.md",
-      "postinstall": "doctoc --title **Contents** --maxlevel 3 README.md"
+      "build": "doctoc --title **Contents** --maxlevel 4 README.md",
+      "postinstall": "doctoc --title **Contents** --maxlevel 4 README.md"
     },
     "repository": {
       "type": "git",
@@ -24,7 +24,7 @@
     },
     "husky": {
       "hooks": {
-        "pre-commit": "doctoc --title **Contents** --maxlevel 3 README.md"
+        "pre-commit": "doctoc --title **Contents** --maxlevel 4 README.md"
       }
     },
     "engines": {
