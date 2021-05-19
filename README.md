@@ -24,6 +24,7 @@ A curated list of Industry 4.0 research, popular events, open-source software pr
   - [Platforms](#platforms)
   - [Machine Vision](#machine-vision)
   - [Robotics](#robotics)
+  - [Simulators](#simulators)
 - [Trade Shows and Events](#trade-shows-and-events)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Code of Conduct](#code-of-conduct)
@@ -97,19 +98,23 @@ may very well, one day, become as popular as JavaScript itself.
 
 ### Platforms
 
-* [Eclipse BaSyx](https://www.eclipse.org/basyx/) [![License: EPL 2.0](https://img.shields.io/badge/License-EPL%202.0-brightgreen.svg)](https://spdx.org/licenses/EPL-2.0.html) [![Eclipse BaSyx Code](https://img.shields.io/badge/Link%20to-Code-red)](https://git.eclipse.org/r/plugins/gitiles/basyx/basyx) [![Eclipse BaSyx Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://wiki.eclipse.org/BaSyx) - Provides software application middleware for end users interested in implementing Industry 4.0 within industry and academia.
-* [United Manufacturing Hub](https://www.umh.app/) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![United Manufacturing Hub Code](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) [![United Manufacturing Hub Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://docs.umh.app/docs/) - Industrial IoT and manufacturing application platform enabling users to connect, store, and access all relevant data sources in industrial manufacturing sites and build user-centric dashboards and applications.
+* **[Eclipse BaSyx](https://www.eclipse.org/basyx/)** [![License: EPL 2.0](https://img.shields.io/badge/License-EPL%202.0-brightgreen.svg)](https://spdx.org/licenses/EPL-2.0.html) [![Eclipse BaSyx Code](https://img.shields.io/badge/Link%20to-Code-red)](https://git.eclipse.org/r/plugins/gitiles/basyx/basyx) [![Eclipse BaSyx Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://wiki.eclipse.org/BaSyx) - Provides software application middleware for end users interested in implementing Industry 4.0 within industry and academia.
+* **[United Manufacturing Hub](https://www.umh.app/)** [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![United Manufacturing Hub Code](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) [![United Manufacturing Hub Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://docs.umh.app/docs/) - Industrial IoT and manufacturing application platform enabling users to connect, store, and access all relevant data sources in industrial manufacturing sites and build user-centric dashboards and applications.
 
 ### Machine Vision
 
-* [OpenCV](https://opencv.org/) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![OpenCV Repo](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/opencv/opencv) [![OpenCV Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://docs.opencv.org/) - Library for building real-time computer vision systems.
+* **[OpenCV](https://opencv.org/)** [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![OpenCV Repo](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/opencv/opencv) [![OpenCV Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://docs.opencv.org/) - Library for building real-time computer vision systems.
 
 ### Robotics
 
-* [Robot Operating System (ROS)](https://www.ros.org/) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Robot Operating System Repo](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/ros2) [![Robot Operating System Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://docs.ros.org/) - Robotics middleware suite which provides low-level device control, message passing infrastructure, mapping, localization, perception and simulation tooling.
+* **[Robot Operating System (ROS)](https://www.ros.org/)** [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Robot Operating System Repo](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/ros2) [![Robot Operating System Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://docs.ros.org/) - Robotics middleware suite which provides low-level device control, message passing infrastructure, mapping, localization, perception and simulation tooling.
     * [ROS Q&A Forum](https://answers.ros.org/questions/) - Question and answer forum for newcomers to the Robot Operating System (ROS) project.
     * [ROS General Discussion Forum](https://discourse.ros.org/) - Discussion forum for news, help and other related topics about the Robot Operating System (ROS) open-source project.
     * [ROSCon](https://roscon.ros.org/) - Annual networking and educational conference for system developers of all experience levels (beginners to experts) that utilize the [Robot Operating System](https://www.ros.org/).
+
+### Simulators
+
+* **[Manufacturing Line PackML MQTT Simulator](https://github.com/Spruik/PackML-MQTT-Simulator)** [![License: MIT](https://img.shields.io/badge/License-MIT-orange)](https://spdx.org/licenses/MIT.html) [![Manufacturing Line PackML MQTT Simulator Repo](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/Spruik/PackML-MQTT-Simulator) - Manufacturing line simulation platform that utilizes PackML implemented over MQTT. 
 
 ## Trade Shows and Events
 
