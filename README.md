@@ -17,6 +17,8 @@ A curated list of Industry 4.0 research, popular events, open-source software pr
   - [Computer Programming](#computer-programming)
     - [Python](#python)
     - [TypeScript](#typescript)
+- [Open Source Projects](#open-source-projects)
+  - [Platforms](#platforms)
 - [Helpful Discussion Forums and Communities](#helpful-discussion-forums-and-communities)
 - [Trade Shows and Events](#trade-shows-and-events)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -86,6 +88,12 @@ may very well, one day, become as popular as JavaScript itself.
 * [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) - by [basarat](https://twitter.com/basarat)
 * [Intro to D3](https://wattenberger.com/blog/d3#intro) - by [Amelia Wattenberger](https://twitter.com/wattenberger)
 * [Introduction to D3](https://observablehq.com/@mitvis/introduction-to-d3) - by [Arvind Satyanarayan](https://twitter.com/arvindsatya1)
+
+## Open Source Projects
+
+### Platforms
+
+* [United Manufacturing Hub](https://www.umh.app/) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) - Industrial IoT and manufacturing application platform enabling users to connect, store, and access all relevant data sources in industrial manufacturing sites and build user-centric dashboards and applications.
 
 ## Helpful Discussion Forums and Communities
 
