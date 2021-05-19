@@ -56,7 +56,7 @@ at the moment.
 
 **Resources**
 
-* [Python Programming Foundations](https://www.youtube.com/playlist?list=PLYUrQ5a-G2hBKwkhYC8lw5w_VeFM4-MdS) (**for Python beginners**) - by [Adam J. Cook](https://twitter.com/AdamJosephCook)
+None, yet.
 
 #### TypeScript
 
@@ -83,7 +83,6 @@ may very well, one day, become as popular as JavaScript itself.
 
 **Resources**
 
-* [TypeScript Programming Foundations](https://www.youtube.com/playlist?list=PLYUrQ5a-G2hAm08wIsXYCywGB2Evpuzby) (**for TypeScript/JavaScript beginners**) - by [Adam J. Cook](https://twitter.com/AdamJosephCook)
 * [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) - by [basarat](https://twitter.com/basarat)
 * [Intro to D3](https://wattenberger.com/blog/d3#intro) - by [Amelia Wattenberger](https://twitter.com/wattenberger)
 * [Introduction to D3](https://observablehq.com/@mitvis/introduction-to-d3) - by [Arvind Satyanarayan](https://twitter.com/arvindsatya1)

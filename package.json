@@ -4,6 +4,7 @@
     "description": "Curated list of Industry 4.0 research, popular events, open-source software projects and learning resources.",
     "private": true,
     "scripts": {
+      "prepare": "is-ci || husky install",
       "build": "doctoc --title **Contents** --maxlevel 4 README.md",
       "postinstall": "doctoc --title **Contents** --maxlevel 4 README.md"
     },
@@ -18,9 +19,10 @@
     },
     "homepage": "https://mfgopen.com",
     "devDependencies": {
-      "doctoc": "^1.4.0",
-      "husky": "^3.0.4",
-      "prettier": "^1.19.1"
+      "doctoc": "^2.0.0",
+      "husky": "^6.0.0",
+      "is-ci": "^3.0.0",
+      "prettier": "^2.3.0"
     },
     "husky": {
       "hooks": {
