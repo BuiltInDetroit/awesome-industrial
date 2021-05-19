@@ -26,6 +26,7 @@ A curated list of Industry 4.0 research, popular events, open-source software pr
   - [Robotics](#robotics)
   - [Simulators](#simulators)
 - [Trade Shows and Events](#trade-shows-and-events)
+- [Newsletters and Digital Magazines](#newsletters-and-digital-magazines)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Code of Conduct](#code-of-conduct)
 
@@ -121,9 +122,15 @@ may very well, one day, become as popular as JavaScript itself.
 Trade shows and recurring events of which a substantial portion is
 dedicated to Industry 4.0 conversations, topics and equipment.
 
-* [Automate](https://www.automateshow.com/) - Bi-annual robotics, machine vision and industrial automation show held in Detroit, Michigan.
-* [Hannover Messe](https://www.hannovermesse.de/en/) - Annual manufacturing technology show held in Hanover, Germany that is intended to demonstrate the latest industry trends in manufacturing and energy distribution. A core focus of this show is "digitalization" of traditional industry.
-* [International Manufacturing Technology Show (IMTS)](https://www.imts.com/) - Bi-annual manufacturing technology show in North America which typically includes several talks, exhibits and vendors that feature Industry 4.0 and Digital Manufacturing. This show is held in Chicago, Illinois.
+* **[Automate](https://www.automateshow.com/)** - Bi-annual robotics, machine vision and industrial automation show held in Detroit, Michigan.
+* **[Hannover Messe](https://www.hannovermesse.de/en/)** - Annual manufacturing technology show held in Hanover, Germany that is intended to demonstrate the latest industry trends in manufacturing and energy distribution. A core focus of this show is "digitalization" of traditional industry.
+* **[International Manufacturing Technology Show (IMTS)](https://www.imts.com/)** - Bi-annual manufacturing technology show in North America which typically includes several talks, exhibits and vendors that feature Industry 4.0 and Digital Manufacturing. This show is held in Chicago, Illinois.
+
+## Newsletters and Digital Magazines
+
+* **[AI Weekly](https://aiweekly.co/)** - Weekly newsletter containing a collection of news and opinions regarding Artificial Intelligence developments, a summary of "What's New" in the robotics industry and upcoming industry events.
+* **[Computer Vision News](https://www.rsipvision.com/computer-vision-news/)** - Monthly newsletter that surfaces the latest developments in the Computer Vision and AI communities across multiple domains. This newsletter is designed to fill the empty space between scientific journals and commercial publications.
+* **[Weekly Robotics](https://weeklyrobotics.com/)** - Weekly newsletter that consolidates notable industry developments, latest robotics research, blog posts, startup investments in robotics companies and open-source projects of interest.
 
 ## Other Awesome Lists
 
