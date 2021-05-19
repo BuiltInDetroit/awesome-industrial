@@ -93,7 +93,8 @@ may very well, one day, become as popular as JavaScript itself.
 
 ### Platforms
 
-* [United Manufacturing Hub](https://www.umh.app/) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) - Industrial IoT and manufacturing application platform enabling users to connect, store, and access all relevant data sources in industrial manufacturing sites and build user-centric dashboards and applications.
+* [Eclipse BaSyx](https://www.eclipse.org/basyx/) [![License: EPL 2.0](https://img.shields.io/badge/License-EPL%202.0-brightgreen.svg)](https://spdx.org/licenses/EPL-2.0.html) [![Eclipse BaSyx Repo](https://img.shields.io/badge/Link%20to-Repo-red)](https://git.eclipse.org/r/plugins/gitiles/basyx/basyx) - Provides software application middleware for end users interested in implementing Industrie 4.0 within industry and academia.
+* [United Manufacturing Hub](https://www.umh.app/) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![United Manufacturing Hub Repo](https://img.shields.io/badge/Link%20to-Repo-red)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - Industrial IoT and manufacturing application platform enabling users to connect, store, and access all relevant data sources in industrial manufacturing sites and build user-centric dashboards and applications.
 
 ## Helpful Discussion Forums and Communities
 
