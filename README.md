@@ -101,6 +101,7 @@ dedicated to Industry 4.0 conversations, topics and equipment.
 * [Automate](https://www.automateshow.com/) - Bi-annual robotics, machine vision and industrial automation show held in Detroit, Michigan.
 * [Hannover Messe](https://www.hannovermesse.de/en/) - Annual manufacturing technology show held in Hanover, Germany that is intended to demonstrate the latest industry trends in manufacturing and energy distribution. A core focus of this show is "digitalization" of traditional industry.
 * [International Manufacturing Technology Show (IMTS)](https://www.imts.com/) - Bi-annual manufacturing technology show in North America which typically includes several talks, exhibits and vendors that feature Industry 4.0 and Digital Manufacturing. This show is held in Chicago, Illinois.
+* [ROSCon](https://roscon.ros.org/) - Annual networking and educational event for system developers of all experience levels (beginners to experts) that utilize the [Robot Operating System](https://www.ros.org/).
 
 ## Other Awesome Lists
 
