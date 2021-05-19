@@ -24,7 +24,6 @@ A curated list of Industry 4.0 research, popular events, open-source software pr
   - [Platforms](#platforms)
   - [Machine Vision](#machine-vision)
   - [Robotics](#robotics)
-- [Discussion Forums and Communities](#discussion-forums-and-communities)
 - [Trade Shows and Events](#trade-shows-and-events)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Code of Conduct](#code-of-conduct)
@@ -99,7 +98,7 @@ may very well, one day, become as popular as JavaScript itself.
 ### Platforms
 
 * [Eclipse BaSyx](https://www.eclipse.org/basyx/) [![License: EPL 2.0](https://img.shields.io/badge/License-EPL%202.0-brightgreen.svg)](https://spdx.org/licenses/EPL-2.0.html) [![Eclipse BaSyx Code](https://img.shields.io/badge/Link%20to-Code-red)](https://git.eclipse.org/r/plugins/gitiles/basyx/basyx) - Provides software application middleware for end users interested in implementing Industry 4.0 within industry and academia.
-* [United Manufacturing Hub](https://www.umh.app/) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![United Manufacturing Hub Code](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - Industrial IoT and manufacturing application platform enabling users to connect, store, and access all relevant data sources in industrial manufacturing sites and build user-centric dashboards and applications.
+* [United Manufacturing Hub](https://www.umh.app/) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![United Manufacturing Hub Code](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) [![United Manufacturing Hub Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://docs.umh.app/docs/) - Industrial IoT and manufacturing application platform enabling users to connect, store, and access all relevant data sources in industrial manufacturing sites and build user-centric dashboards and applications.
 
 ### Machine Vision
 
