@@ -19,7 +19,8 @@ A curated list of Industry 4.0 research, popular events, open-source software pr
     - [TypeScript](#typescript)
 - [Open Source Projects](#open-source-projects)
   - [Platforms](#platforms)
-- [Helpful Discussion Forums and Communities](#helpful-discussion-forums-and-communities)
+  - [Robotics](#robotics)
+- [Discussion Forums and Communities](#discussion-forums-and-communities)
 - [Trade Shows and Events](#trade-shows-and-events)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Code of Conduct](#code-of-conduct)
@@ -93,14 +94,20 @@ may very well, one day, become as popular as JavaScript itself.
 
 ### Platforms
 
-* [Eclipse BaSyx](https://www.eclipse.org/basyx/) [![License: EPL 2.0](https://img.shields.io/badge/License-EPL%202.0-brightgreen.svg)](https://spdx.org/licenses/EPL-2.0.html) [![Eclipse BaSyx Repo](https://img.shields.io/badge/Link%20to-Repo-red)](https://git.eclipse.org/r/plugins/gitiles/basyx/basyx) - Provides software application middleware for end users interested in implementing Industrie 4.0 within industry and academia.
-* [United Manufacturing Hub](https://www.umh.app/) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![United Manufacturing Hub Repo](https://img.shields.io/badge/Link%20to-Repo-red)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - Industrial IoT and manufacturing application platform enabling users to connect, store, and access all relevant data sources in industrial manufacturing sites and build user-centric dashboards and applications.
+* [Eclipse BaSyx](https://www.eclipse.org/basyx/) [![License: EPL 2.0](https://img.shields.io/badge/License-EPL%202.0-brightgreen.svg)](https://spdx.org/licenses/EPL-2.0.html) [![Eclipse BaSyx Code](https://img.shields.io/badge/Link%20to-Code-red)](https://git.eclipse.org/r/plugins/gitiles/basyx/basyx) - Provides software application middleware for end users interested in implementing Industry 4.0 within industry and academia.
+* [United Manufacturing Hub](https://www.umh.app/) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![United Manufacturing Hub Code](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - Industrial IoT and manufacturing application platform enabling users to connect, store, and access all relevant data sources in industrial manufacturing sites and build user-centric dashboards and applications.
 
-## Helpful Discussion Forums and Communities
+### Robotics
+
+* [Robot Operating System (ROS)](https://www.ros.org/) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Robot Operating System Repo](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/ros2) - Robotics middleware suite which provides low-level device control, message passing infrastructure, mapping, localization, perception and simulation tooling.
+
+## Discussion Forums and Communities
 
 Discussion forums and platforms dedicated to helping people learn about and discuss Industry 4.0 topics.
 
-* [ManufacturingOpen Discord Server](https://discord.gg/ssvcVNJ) - The official Discord chat server for ManufacturingOpen workshops, walkthroughs, Industry 4.0 conversations, feedback and general help.
+* [ManufacturingOpen Discord Server](https://discord.gg/ssvcVNJ) - Chat server for ManufacturingOpen workshops, walkthroughs, Industry 4.0 conversations, feedback and general help.
+* [ROS Q&A Forum](https://answers.ros.org/questions/) - Question and answer forum for newcomers to the Robot Operating System (ROS) project.
+* [ROS General Discussion Forum](https://discourse.ros.org/) - Discussion forum for news, help and other related topics about the Robot Operating System (ROS) open-source project.
 
 ## Trade Shows and Events
 
