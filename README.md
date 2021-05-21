@@ -25,6 +25,7 @@ A curated list of Industry 4.0 research, popular events, open-source software pr
   - [Platforms](#platforms)
   - [Robotics](#robotics)
   - [Simulators](#simulators)
+- [Video Channels](#video-channels)
 - [Trade Shows and Events](#trade-shows-and-events)
 - [Newsletters and Digital Magazines](#newsletters-and-digital-magazines)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -117,6 +118,17 @@ may very well, one day, become as popular as JavaScript itself.
 
 * **[Manufacturing Line PackML MQTT Simulator](https://github.com/Spruik/PackML-MQTT-Simulator)** [![License: MIT](https://img.shields.io/badge/License-MIT-orange)](https://spdx.org/licenses/MIT.html) [![Manufacturing Line PackML MQTT Simulator Repo](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/Spruik/PackML-MQTT-Simulator) - Manufacturing line simulation platform that utilizes PackML implemented over MQTT. 
 
+## Video Channels
+
+* **[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)** - Rich, animated and entertaining video tutorials on various mathematics topics that are typically related to physical product simulations (differential equations) and Machine Learning (linear algebra, eigenvalues).
+* **[ETH Zurich Autonomous Systems Lab](https://www.youtube.com/c/aslteam)** and **[ETH Zurich Robotic Systems Lab](https://www.youtube.com/user/leggedrobotics)** - Novel autonomous systems research and concepts for robotics operating on the ground, air, water and other challenging environments.
+* **[JetsonHacks](https://www.youtube.com/channel/UCQs0lwV6E4p7LQaGJ6fgy5Q)** - Overviews and tutorials focused on the NVIDIA Jetson Developer Kit along with great project ideas for university student groups.
+* **[MinutePROFINET](https://www.youtube.com/channel/UC1o6hU1Na8uIpkBVa_tpuqA)** - Short, approachable videos on the PROFINET Industrial Ethernet protocol.
+* **[omlox](https://www.youtube.com/channel/UC5gf595MjHXAnWZAliucdzg)** - Short, educational videos on omlox, an open locating standard, which provides a real-time asset/product tracking standard for networked industrial factories.
+* **[PyTorch](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw)** - Tutorials and conference talks about PyTorch, a popular, open-source Machine Learning framework.
+* **[RealPars](https://www.youtube.com/c/realpars)** - Short videos, with extremely high production value, covering everything from industrial factory maintenance to industrial control systems to industrial computer programming.
+* **[ROS-Industrial (ROS-I) Consortium](https://www.youtube.com/channel/UCXyGVRiCwUMc1gav-G7z2ew)** - Open-source project that extends the use of the Robot Operating System (ROS) for industrial and manufacturing-oriented use cases. The ROS-I YouTube channel contains talks from industry partners on how they are leveraging ROS-I in industrial robots, presentations on robotics research and recaps of annual ROS-I industry meetings.
+
 ## Trade Shows and Events
 
 Trade shows and recurring events of which a substantial portion is
@@ -129,7 +141,7 @@ dedicated to Industry 4.0 conversations, topics and equipment.
 ## Newsletters and Digital Magazines
 
 * **[AI Weekly](https://aiweekly.co/)** - Weekly newsletter containing a collection of news and opinions regarding Artificial Intelligence developments, a summary of "What's New" in the robotics industry and upcoming industry events.
-* **[Computer Vision News](https://www.rsipvision.com/computer-vision-news/)** - Monthly newsletter that surfaces the latest developments in the Computer Vision and AI communities across multiple domains. This newsletter is designed to fill the empty space between scientific journals and commercial publications.
+* **[Computer Vision News](https://www.rsipvision.com/computer-vision-news/)** - Monthly newsletter and digital magazine that surfaces the latest developments in the Computer Vision and AI communities across multiple domains. This newsletter is designed to fill the empty space between scientific journals and commercial publications.
 * **[Weekly Robotics](https://weeklyrobotics.com/)** - Weekly newsletter that consolidates notable industry developments, latest robotics research, blog posts, startup investments in robotics companies and open-source projects of interest.
 
 ## Other Awesome Lists
