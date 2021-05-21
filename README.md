@@ -21,8 +21,8 @@ A curated list of Industry 4.0 research, popular events, open-source software pr
     - [Python](#python)
     - [TypeScript](#typescript)
 - [Open Source Projects](#open-source-projects)
-  - [Platforms](#platforms)
   - [Machine Vision](#machine-vision)
+  - [Platforms](#platforms)
   - [Robotics](#robotics)
   - [Simulators](#simulators)
 - [Trade Shows and Events](#trade-shows-and-events)
@@ -97,14 +97,14 @@ may very well, one day, become as popular as JavaScript itself.
 
 ## Open Source Projects
 
+### Machine Vision
+
+* **[OpenCV](https://opencv.org/)** [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![OpenCV Repo](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/opencv/opencv) [![OpenCV Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://docs.opencv.org/) - Library for building real-time computer vision systems.
+
 ### Platforms
 
 * **[Eclipse BaSyx](https://www.eclipse.org/basyx/)** [![License: EPL 2.0](https://img.shields.io/badge/License-EPL%202.0-brightgreen.svg)](https://spdx.org/licenses/EPL-2.0.html) [![Eclipse BaSyx Code](https://img.shields.io/badge/Link%20to-Code-red)](https://git.eclipse.org/r/plugins/gitiles/basyx/basyx) [![Eclipse BaSyx Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://wiki.eclipse.org/BaSyx) - Provides software application middleware for end users interested in implementing Industry 4.0 within industry and academia.
 * **[United Manufacturing Hub](https://www.umh.app/)** [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![United Manufacturing Hub Code](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) [![United Manufacturing Hub Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://docs.umh.app/docs/) - Industrial IoT and manufacturing application platform enabling users to connect, store, and access all relevant data sources in industrial manufacturing sites and build user-centric dashboards and applications.
-
-### Machine Vision
-
-* **[OpenCV](https://opencv.org/)** [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![OpenCV Repo](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/opencv/opencv) [![OpenCV Docs](https://img.shields.io/badge/Link%20to-Docs-blue)](https://docs.opencv.org/) - Library for building real-time computer vision systems.
 
 ### Robotics
 
