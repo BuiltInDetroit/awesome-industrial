@@ -16,10 +16,9 @@ A curated list of Industry 4.0 research, popular events, open-source software pr
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Contents**
 
-- [Learning Resources](#learning-resources)
-  - [Computer Programming](#computer-programming)
-    - [Python](#python)
-    - [TypeScript](#typescript)
+- [Industrial Computer Programming](#industrial-computer-programming)
+  - [Python](#python)
+  - [TypeScript](#typescript)
 - [Open Source Projects](#open-source-projects)
   - [Machine Vision](#machine-vision)
   - [Platforms](#platforms)
@@ -33,15 +32,13 @@ A curated list of Industry 4.0 research, popular events, open-source software pr
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Learning Resources
-
-### Computer Programming
+## Industrial Computer Programming
 
 Computer programming is the capstone of Industry 4.0, Smart Manufacturing and modern Systems Engineering.
 
 If you have an interest in working with and implementing advanced manufacturing and modern, connected systems, then you will need excellent computer programming skills.
 
-#### Python
+### Python
 
 **Overview**
 
@@ -67,7 +64,7 @@ at the moment.
 
 None, yet.
 
-#### TypeScript
+### TypeScript
 
 **Overview**
 
