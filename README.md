@@ -24,6 +24,7 @@ A curated list of Industry 4.0 research, popular events, open-source software pr
   - [Platforms](#platforms)
   - [Robotics](#robotics)
   - [Simulators](#simulators)
+- [Industry Nonprofit Organizations](#industry-nonprofit-organizations)
 - [Video Channels](#video-channels)
 - [Trade Shows and Events](#trade-shows-and-events)
 - [Newsletters and Digital Magazines](#newsletters-and-digital-magazines)
@@ -113,7 +114,13 @@ may very well, one day, become as popular as JavaScript itself.
 
 ### Simulators
 
-* **[Manufacturing Line PackML MQTT Simulator](https://github.com/Spruik/PackML-MQTT-Simulator)** [![License: MIT](https://img.shields.io/badge/License-MIT-orange)](https://spdx.org/licenses/MIT.html) [![Manufacturing Line PackML MQTT Simulator Repo](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/Spruik/PackML-MQTT-Simulator) - Manufacturing line simulation platform that utilizes PackML implemented over MQTT. 
+* **[Manufacturing Line PackML MQTT Simulator](https://github.com/Spruik/PackML-MQTT-Simulator)** [![License: MIT](https://img.shields.io/badge/License-MIT-orange)](https://spdx.org/licenses/MIT.html) [![Manufacturing Line PackML MQTT Simulator Repo](https://img.shields.io/badge/Link%20to-Code-red)](https://github.com/Spruik/PackML-MQTT-Simulator) - Manufacturing line simulation platform that utilizes PackML implemented over MQTT.
+
+## Industry Nonprofit Organizations
+
+* **[Women in Robotics](https://womeninrobotics.org/)** - Global community supporting women who work in, are interested in or perform research in the robotics industry.
+    * [YouTube Channel](https://www.youtube.com/channel/UCCjeoPPo_1-3R4bi4hVXn-Q)
+    * [Newsletter](https://womeninrobotics.org/newsletter/)
 
 ## Video Channels
 
