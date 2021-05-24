@@ -118,6 +118,8 @@ may very well, one day, become as popular as JavaScript itself.
 
 ## Industry Nonprofit Organizations
 
+* **[Association for Computing Machinery (ACM)](https://www.acm.org/)** - World's largest educational and scientific computing society with nearly 100,000 members, and unites computing professionals, educators, and researchers from industry, academia, and government.
+    * [YouTube Channel](https://www.youtube.com/user/TheOfficialACM)
 * **[Women in Robotics](https://womeninrobotics.org/)** - Global community supporting women who work in, are interested in or perform research in the robotics industry.
     * [YouTube Channel](https://www.youtube.com/channel/UCCjeoPPo_1-3R4bi4hVXn-Q)
     * [Newsletter](https://womeninrobotics.org/newsletter/)
