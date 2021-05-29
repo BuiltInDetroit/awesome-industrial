@@ -162,6 +162,7 @@ used in the context of Industry 4.0.
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Electronics](https://github.com/kitspace/awesome-electronics)
 * [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded)
+* [Awesome Industrial Control System (ICS) Security](https://github.com/hslatman/awesome-industrial-control-system-security)
 * [Awesome IoT](https://github.com/phodal/awesome-iot)
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 * [Awesome Julia](https://github.com/svaksha/Julia.jl)
