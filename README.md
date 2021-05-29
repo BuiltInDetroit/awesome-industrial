@@ -173,6 +173,7 @@ used in the context of Industry 4.0.
 * [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
 * [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
 * [Awesome WebGL](https://github.com/sjfricke/awesome-webgl)
+* [Awesome WebGPU](https://github.com/mikbry/awesome-webgpu)
 
 ## Code of Conduct
 
